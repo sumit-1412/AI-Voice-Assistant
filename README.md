@@ -1,5 +1,3 @@
-Certainly! Here’s an expanded breakdown in points without asterisks:
-
 - **Overview**  
   The AI voice assistant is a Python-based application designed to help users perform various tasks hands-free. It combines voice recognition with action execution, making routine digital tasks easier and more efficient.
 
