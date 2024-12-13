@@ -21,10 +21,7 @@
   2. **GUI with Tkinter**  
      The graphical user interface (GUI) was created using the `Tkinter` library, providing an accessible and intuitive layout where users can see the transcriptions, outputs, and initiate commands manually if needed.
 
-  3. **Database Management with Firebase**  
-     Firebase serves as the database, storing any persistent data needed by the application. This helps manage user settings and preferences, making the assistant responsive and customizable.
-
-  4. **Advanced Language Understanding**  
+  3. **Advanced Language Understanding**  
      Integration with `LangChain` and the `Google Gemini API` allows for deeper conversational understanding, enabling the assistant to handle more complex queries and commands.
 
 - **Use Cases**  
